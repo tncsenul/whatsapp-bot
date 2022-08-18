@@ -40,7 +40,7 @@
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
-            "required": true,
+            "required": false,
             "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
         },
         "CHATBOT": {
